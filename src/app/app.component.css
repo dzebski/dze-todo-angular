@@ -1,0 +1,7 @@
+.credits, .credits a {
+  font-size: 10px;
+  font-weight: bold;
+  color: #787878;
+  text-align: center;
+  flex-grow: 1;
+}
